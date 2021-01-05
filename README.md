@@ -4,6 +4,7 @@ Data cleaning and analysis on Scania failures dataset, as part of UOC Master in 
 ### Autores
 
 Iván Jiménez (https://github.com/96garciaivan/)
+
 Itziar Ricondo (https://github.com/iricondoi/)
 
 ## Acerca de este software
